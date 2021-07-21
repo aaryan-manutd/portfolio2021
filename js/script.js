@@ -11,7 +11,7 @@ window.addEventListener('load', function () {
 // iTyped 
 
 window.ityped.init(document.querySelector('.iTyped'), {
-    strings: ["I'm a Front End Developer", "I'm a tech enthusiast", 'and a nerd! :)', 'I love working with modern libraries and frameworks', "I'm deeply passionate towards Full stack development"],
+    strings: ["I'm Aaryan", "I'm a Front End Developer", "I'm a tech enthusiast", 'and a comic geek! :)', 'I love working with modern libraries and frameworks', "I'm deeply passionate about Full stack development"],
     loop: true
 });
 
